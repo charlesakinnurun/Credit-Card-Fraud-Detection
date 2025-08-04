@@ -1,0 +1,2 @@
+SELECT * FROM fraud
+WHERE V1 < -2.0 AND V2 > 0.5;

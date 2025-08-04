@@ -1,0 +1,3 @@
+SELECT * FROM fraud
+WHERE Class = 1
+ORDER BY Amount DESC;
